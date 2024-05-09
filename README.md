@@ -9,7 +9,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://mikatsujiguchi.github.io/cheese-accademy/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
